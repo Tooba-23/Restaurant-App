@@ -1,1 +1,5 @@
-https://www.figma.com/proto/lFsG9VS0wpMiQ1TEdHPdEA/Untitled?node-id=1-2&t=mx1G72QSXm73a3XJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+# Alvira's Kitchen App Prototype
+
+Click the link below to view the interactive mobile app prototype:
+
+[View Alvira's Kitchen Prototype](https://www.figma.com/proto/xxxxx/your-prototype-link)
